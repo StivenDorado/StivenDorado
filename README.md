@@ -89,22 +89,19 @@ SIDE           : Imperial ◈
 
 ---
 
-## 🏛 Misión principal
+## 📡 Canales de comunicación
 
-```
-┌──────────────────────────────────────────────────────┐
-│  ▲  ARQVISIÓN 3D                                     │
-│     Renderizado arquitectónico · Visualización 3D    │
-│     Diseño realista · Marca en construcción          │
-└──────────────────────────────────────────────────────┘
-```
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhojan%20Stiven%20Salas%20Dorado-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhojan-stiven-salas-dorado-3a9b0b351/)
+[![Gmail](https://img.shields.io/badge/Gmail-golds9013%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golds9013@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Mensaje%20directo-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/1g7lvj)
+
+</div>
 ---
 
 <div align="center">
   <sub>
-    "Do. Or do not. There is no try." — Yoda
-    &nbsp;·&nbsp;
     "The spice must flow." — Dune
   </sub>
 </div>
