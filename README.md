@@ -1,16 +1,13 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d6/d9/38/d6d938615e4e714089e7cadbbc10742a.gif" width="100%" style="max-width:900px"/>
+  <img src="./assets/banner.svg" width="100%"/>
 </div>
+
+<br>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  ░▒▓  S T I V E N   D O R A D O  ▓▒░               ║
-║       Software Developer · Bogotá, Colombia          ║
-║       // SIDE: IMPERIAL  |  STATUS: ONLINE //        ║
-╚══════════════════════════════════════════════════════╝
+// TRANSMISSION: ACTIVE  |  CLEARANCE: ALPHA-7  |  SIDE: IMPERIAL
 ```
 
 </div>
@@ -19,7 +16,7 @@
 
 ## 📡 Archivo de identidad
 
-> *"I must not fear. Fear is the mind-killer."*
+> *"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration."*
 > *— Paul Atreides · El código, como la especia, debe fluir.*
 
 ```yaml
@@ -27,6 +24,7 @@ CLASIFICACIÓN : Tecnólogo en Análisis y Desarrollo de Software
 ESPECIALIZACIÓN: Backend · Frontend · Automatización SAP
 STACK OPERATIVO: Python · MySQL · Node.js · Flutter
 DIRECTIVA      : UI/UX · Soluciones de alto valor organizacional
+MISIÓN         : Optimizar procesos · Construir interfaces que importen
 SIDE           : Imperial ◈
 ```
 
@@ -36,26 +34,26 @@ SIDE           : Imperial ◈
 
 **Lenguajes**
 
-[![Skills](https://skillicons.dev/icons?i=python,js,java,kotlin,php,cpp,cs)](https://skillicons.dev)
+[![Lenguajes](https://skillicons.dev/icons?i=python,js,java,kotlin,php,cpp,cs&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+**Frontend & Mobile**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,react,figma,flutter)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,figma,flutter&theme=dark)](https://skillicons.dev)
 
-**Backend & DB**
+**Backend, DB & Herramientas**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,mysql,postgres,git,linux)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,mysql,postgres,git,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 🎬 Transmisiones de interés
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="280" title="Star Wars"/>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30%" title="Star Wars"/>
   &nbsp;
-  <img src="https://media.giphy.com/media/3og0IO5z8Rd30ktV6g/giphy.gif" width="280" title="Dune"/>
+  <img src="https://media.giphy.com/media/3og0IO5z8Rd30ktV6g/giphy.gif" width="30%" title="Dune"/>
   &nbsp;
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" title="Coding"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%" title="Coding"/>
 </div>
 
 <div align="center">
@@ -68,14 +66,14 @@ SIDE           : Imperial ◈
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=StivenDorado&theme=shadow-red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=StivenDorado&theme=shadow-red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun" width="96%" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StivenDorado&show_icons=true&theme=midnight-purple&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StivenDorado&show_icons=true&theme=midnight-purple&hide_border=true" width="47%" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivenDorado&layout=compact&theme=midnight-purple&hide_border=true" width="48%" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivenDorado&layout=compact&theme=midnight-purple&hide_border=true" width="47%" alt="Top Langs"/>
 </p>
 
 ---
@@ -83,18 +81,19 @@ SIDE           : Imperial ◈
 ## 🏛 Misión principal
 
 ```
-┌──────────────────────────────────────────────┐
-│  ▲  ARQVISIÓN 3D                             │
-│     Renderizado arquitectónico               │
-│     Visualización realista · Diseño 3D       │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  ▲  ARQVISIÓN 3D                                     │
+│     Renderizado arquitectónico · Visualización 3D    │
+│     Diseño realista · Marca en construcción          │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
 <div align="center">
   <sub>
-    "Do. Or do not. There is no try." — Yoda &nbsp;|&nbsp;
+    "Do. Or do not. There is no try." — Yoda
+    &nbsp;·&nbsp;
     "The spice must flow." — Dune
   </sub>
 </div>

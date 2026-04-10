@@ -1,0 +1,117 @@
+<svg width="100%" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <clipPath id="gc"><ellipse cx="450" cy="140" rx="90" ry="90"/></clipPath>
+  <linearGradient id="scanfade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#050810"/>
+    <stop offset="12%" stop-color="#050810" stop-opacity="0"/>
+    <stop offset="88%" stop-color="#050810" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#050810"/>
+  </linearGradient>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&amp;family=Share+Tech+Mono&amp;display=swap');
+    .title-text { font-family: 'Orbitron','Courier New',monospace; font-size: 42px; font-weight: 900; fill: #5a9aef; letter-spacing: 6px; }
+    .sub-text   { font-family: 'Share Tech Mono','Courier New',monospace; font-size: 13px; fill: #2a5080; letter-spacing: 5px; }
+    .scan-text  { font-family: 'Share Tech Mono','Courier New',monospace; font-size: 10px; fill: #1a3860; letter-spacing: 3px; }
+    .grid-line  { stroke: #0d2040; stroke-width: 0.5; fill: none; }
+    .orbit      { stroke: #1a3860; stroke-width: 0.8; fill: none; }
+    .orbit-d    { stroke: #162840; stroke-width: 0.6; fill: none; stroke-dasharray: 4 6; }
+    .cross      { stroke: #1a3060; stroke-width: 0.5; fill: none; }
+    .dot-node   { fill: #3a7abf; }
+    .dot-sm     { fill: #1a4070; }
+    .bracket    { stroke: #1a4070; stroke-width: 1; fill: none; }
+    .r1 { animation: spin1 10s linear infinite; transform-origin: 450px 140px; }
+    .r2 { animation: spin2 16s linear infinite; transform-origin: 450px 140px; }
+    .r3 { animation: spin3 24s linear infinite reverse; transform-origin: 450px 140px; }
+    .pulse-ring { animation: pring 3s ease-in-out infinite; transform-origin: 450px 140px; }
+    .blink1 { animation: blink 2.4s step-end infinite; }
+    .blink2 { animation: blink 3.1s step-end 0.7s infinite; }
+    .title-glow { animation: tglow 4s ease-in-out infinite; }
+    @keyframes spin1  { to { transform: rotate(360deg);  } }
+    @keyframes spin2  { to { transform: rotate(-360deg); } }
+    @keyframes spin3  { to { transform: rotate(360deg);  } }
+    @keyframes pring  { 0%,100%{opacity:0.3} 50%{opacity:1} }
+    @keyframes blink  { 0%,100%{opacity:1} 50%{opacity:0} }
+    @keyframes tglow  { 0%,100%{fill:#4a8adf} 50%{fill:#7ab8ff} }
+  </style>
+</defs>
+<rect width="900" height="280" fill="#050810"/>
+<g class="grid-line">
+  <line x1="0" y1="46" x2="900" y2="46"/><line x1="0" y1="93" x2="900" y2="93"/>
+  <line x1="0" y1="140" x2="900" y2="140"/><line x1="0" y1="187" x2="900" y2="187"/>
+  <line x1="0" y1="234" x2="900" y2="234"/><line x1="150" y1="0" x2="150" y2="280"/>
+  <line x1="300" y1="0" x2="300" y2="280"/><line x1="450" y1="0" x2="450" y2="280"/>
+  <line x1="600" y1="0" x2="600" y2="280"/><line x1="750" y1="0" x2="750" y2="280"/>
+</g>
+<line x1="0" y1="140" x2="360" y2="140" class="cross"/>
+<line x1="540" y1="140" x2="900" y2="140" class="cross"/>
+<line x1="450" y1="0"  x2="450" y2="50"  class="cross"/>
+<line x1="450" y1="230" x2="450" y2="280" class="cross"/>
+<line x1="360" y1="135" x2="360" y2="145" stroke="#1a4070" stroke-width="0.8"/>
+<line x1="540" y1="135" x2="540" y2="145" stroke="#1a4070" stroke-width="0.8"/>
+<line x1="445" y1="50"  x2="455" y2="50"  stroke="#1a4070" stroke-width="0.8"/>
+<line x1="445" y1="230" x2="455" y2="230" stroke="#1a4070" stroke-width="0.8"/>
+<polygon points="14,136 14,144 6,140" fill="#1a3860"/>
+<polygon points="886,136 886,144 894,140" fill="#1a3860"/>
+<circle cx="450" cy="10" r="2.5" fill="#1a3860"/>
+<polygon points="447,272 453,272 450,280" fill="#1a3860"/>
+<g class="r1"><ellipse cx="450" cy="140" rx="88" ry="34" class="orbit" transform="rotate(-20,450,140)"/></g>
+<g class="r2"><ellipse cx="450" cy="140" rx="100" ry="28" class="orbit-d" transform="rotate(40,450,140)"/></g>
+<g class="r3"><ellipse cx="450" cy="140" rx="78" ry="20" class="orbit" transform="rotate(70,450,140)"/></g>
+<g clip-path="url(#gc)">
+  <ellipse cx="450" cy="140" rx="90" ry="30" stroke="#1a3860" stroke-width="0.6" fill="none"/>
+  <ellipse cx="450" cy="140" rx="90" ry="55" stroke="#162840" stroke-width="0.5" fill="none"/>
+  <ellipse cx="450" cy="140" rx="90" ry="75" stroke="#162840" stroke-width="0.5" fill="none"/>
+  <ellipse cx="450" cy="140" rx="30" ry="90" stroke="#1a3060" stroke-width="0.5" fill="none"/>
+  <ellipse cx="450" cy="140" rx="60" ry="90" stroke="#1a3060" stroke-width="0.5" fill="none"/>
+  <line x1="360" y1="140" x2="540" y2="140" stroke="#1a3860" stroke-width="0.6"/>
+  <line x1="450" y1="50" x2="450" y2="230" stroke="#1a3060" stroke-width="0.5"/>
+</g>
+<circle cx="450" cy="140" r="90" stroke="#1e3a6e" stroke-width="1" fill="none"/>
+<circle cx="450" cy="140" r="90" stroke="#0d1e3a" stroke-width="8" fill="none"/>
+<circle cx="450" cy="140" r="105" stroke="#1a3060" stroke-width="0.6" fill="none" class="pulse-ring"/>
+<circle cx="450" cy="140" r="115" stroke="#0d1e30" stroke-width="0.4" fill="none"/>
+<g class="r1">
+  <circle cx="538" cy="140" r="4" class="dot-node"/>
+  <circle cx="362" cy="140" r="3" class="dot-sm"/>
+</g>
+<g class="r2"><circle cx="550" cy="140" r="3" class="dot-sm"/></g>
+<g class="r3"><circle cx="528" cy="140" r="2.5" class="dot-sm"/></g>
+<circle cx="450" cy="140" r="4" fill="#4a8adf"/>
+<circle cx="450" cy="140" r="2" fill="#8ac0ff"/>
+<polygon points="450,24 455,34 445,34" stroke="#1a4070" stroke-width="0.8" fill="none"/>
+<line x1="450" y1="34" x2="450" y2="40" stroke="#1a4070" stroke-width="0.8"/>
+<circle cx="450" cy="43" r="2" class="dot-sm"/>
+<g transform="translate(30,133)">
+  <circle cx="0" cy="7" r="3" stroke="#1a4070" stroke-width="0.8" fill="none"/>
+  <line x1="3" y1="7" x2="14" y2="7" stroke="#1a4070" stroke-width="0.8"/>
+</g>
+<g transform="translate(856,133)">
+  <line x1="0" y1="7" x2="11" y2="7" stroke="#1a4070" stroke-width="0.8"/>
+  <polygon points="11,4 11,10 17,7" stroke="#1a4070" stroke-width="0.8" fill="none"/>
+</g>
+<path d="M 58 30 L 42 30 L 42 46" class="bracket"/>
+<path d="M 842 30 L 858 30 L 858 46" class="bracket"/>
+<path d="M 58 250 L 42 250 L 42 234" class="bracket"/>
+<path d="M 842 250 L 858 250 L 858 234" class="bracket"/>
+<text x="450" y="22" text-anchor="middle" class="scan-text">// HOLOCRON SEQUENCE ACTIVE //</text>
+<text x="450" y="270" text-anchor="middle" class="scan-text">BOGOTÁ · COLOMBIA · EST. 2024</text>
+<text x="56" y="100" text-anchor="start" class="scan-text" fill="#1a3860">CLEARANCE</text>
+<text x="56" y="113" text-anchor="start" class="scan-text" fill="#1e4880">ALPHA-7</text>
+<text x="56" y="150" text-anchor="start" class="scan-text" fill="#1a3860">SIDE</text>
+<text x="56" y="163" text-anchor="start" class="scan-text" fill="#1e4880">IMPERIAL</text>
+<text x="56" y="200" text-anchor="start" class="scan-text" fill="#1a3860">STATUS</text>
+<text x="56" y="213" text-anchor="start" class="scan-text" fill="#1e4880">ONLINE</text>
+<text x="844" y="100" text-anchor="end" class="scan-text" fill="#1a3860">STACK</text>
+<text x="844" y="113" text-anchor="end" class="scan-text" fill="#1e4880">PY · JS · SAP</text>
+<text x="844" y="150" text-anchor="end" class="scan-text" fill="#1a3860">FOCUS</text>
+<text x="844" y="163" text-anchor="end" class="scan-text" fill="#1e4880">BACKEND</text>
+<text x="844" y="200" text-anchor="end" class="scan-text" fill="#1a3860">SPECIALTY</text>
+<text x="844" y="213" text-anchor="end" class="scan-text" fill="#1e4880">UI/UX</text>
+<text x="450" y="130" text-anchor="middle" class="title-text title-glow">STIVEN</text>
+<text x="450" y="176" text-anchor="middle" class="title-text title-glow" font-size="28" letter-spacing="14">DORADO</text>
+<text x="450" y="198" text-anchor="middle" class="sub-text">SOFTWARE DEVELOPER</text>
+<circle cx="120" cy="140" r="2.5" class="dot-sm blink1"/>
+<circle cx="780" cy="140" r="2.5" class="dot-sm blink2"/>
+<circle cx="450" cy="240" r="2" class="dot-sm blink1"/>
+<rect width="900" height="280" fill="url(#scanfade)"/>
+</svg>
