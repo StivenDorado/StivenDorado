@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://tu-gif-aqui.gif" width="600px"/>
-</div>
+  <img src="https://tu-gif-aqui.gif" width="700px"/>
+</div> 
 
 <h2 align="center">
   Hey there! I'm Stiven Dorado 👋
