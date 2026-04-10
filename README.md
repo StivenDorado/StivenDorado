@@ -1,4 +1,5 @@
-## Hi there 👋
+<h2> Hey there! I'm Mohamed Magdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+
 
 <!--
 **StivenDorado/StivenDorado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
