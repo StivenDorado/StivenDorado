@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
+<div align="center"><img src="https://app.lottiefiles.com/animation/130ac568-c13e-4970-aef4-cb9aee3a0fc2" height = 250px width = 60%  /></div>
 
 <h2> Hey there! I'm Mohamed Magdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
