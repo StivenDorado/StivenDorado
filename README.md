@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://tu-gif-aqui.gif](https://lottie.host/embed/68c348f7-2b79-43f7-8b4f-4944a22754a2/i3jwAQJ5Pl.lottie)" width="700px"/>
+  <img src="[https://tu-gif-aqui.gif](https://lottie.host/embed/68c348f7-2b79-43f7-8b4f-4944a22754a2/i3jwAQJ5Pl.lottie)" width="900px"/>
 </div> 
 
 <h2 align="center">
