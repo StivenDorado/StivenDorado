@@ -34,16 +34,29 @@ SIDE           : Imperial ◈
 
 **Lenguajes**
 
-[![Lenguajes](https://skillicons.dev/icons?i=python,js,java,kotlin,php,cpp,cs&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,python,html,css)](https://skillicons.dev)
 
-**Frontend & Mobile**
+**Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,figma,flutter&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 
-**Backend, DB & Herramientas**
+**Backend**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,mysql,postgres,git,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
+**Bases de datos**
+
+[![Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+**DevOps & Herramientas**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+
+**Metodologías**
+
+```
+◈ Metodologías ágiles   ◈ Scrum   ◈ Gestión de proyectos
+```
 ---
 
 ## 🎬 Transmisiones de interés
