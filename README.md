@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://tu-link-del-gif.gif](https://app.lottiefiles.com/animation/130ac568-c13e-4970-aef4-cb9aee3a0fc2)" width="600px"/>
+  <img src="[[https://tu-link-del-gif.gif](https://app.lottiefiles.com/animation/130ac568-c13e-4970-aef4-cb9aee3a0fc2)](https://lottie.host/embed/68c348f7-2b79-43f7-8b4f-4944a22754a2/i3jwAQJ5Pl.lottie)" width="600px"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Stiven Dorado</h1>
