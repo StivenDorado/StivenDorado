@@ -60,6 +60,7 @@ SIDE           : Imperial ◈
 ![Antigravity](https://img.shields.io/badge/Antigravity-6a3fd5?style=for-the-badge&logo=sparkles&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
