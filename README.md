@@ -81,11 +81,7 @@ SIDE           : Imperial ◈
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=StivenDorado&theme=shadow-red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StivenDorado&show_icons=true&theme=midnight-purple&hide_border=true" width="47%" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivenDorado&layout=compact&theme=midnight-purple&hide_border=true" width="47%" alt="Top Langs"/>
-</p>
+
 
 ---
 
