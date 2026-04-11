@@ -38,7 +38,7 @@ SIDE           : Imperial ◈
 
 **Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma)](https://skillicons.dev)
 
 **Backend**
 
@@ -46,17 +46,36 @@ SIDE           : Imperial ◈
 
 **Bases de datos**
 
-[![Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,mssql)](https://skillicons.dev)
 
 **DevOps & Herramientas**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,linux)](https://skillicons.dev)
 
-**Metodologías**
+---
+
+### 🤖 Inteligencia Artificial
+
+![v0](https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-6a3fd5?style=for-the-badge&logo=sparkles&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### ⚙️ Automatizaciones
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+---
+
+### 📋 Metodologías
 
 ```
 ◈ Metodologías ágiles   ◈ Scrum   ◈ Gestión de proyectos
 ```
+
 ---
 
 ## 🎬 Transmisiones de interés
