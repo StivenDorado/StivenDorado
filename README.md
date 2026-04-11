@@ -32,6 +32,9 @@ SIDE           : Imperial ◈
 
 ## ⚡ Arsenal tecnológico
 
+<div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFuaGp6cmYzODU5am81dWhrcmw2ZXRneWVlZHh4bzFrbjU2aHV4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Gyz2J1b9SjD2/giphy.gif" align="right" width="380"/>
+
 **Lenguajes**
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,python,html,css)](https://skillicons.dev)
@@ -51,6 +54,8 @@ SIDE           : Imperial ◈
 **DevOps & Herramientas**
 
 [![Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,linux)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -76,22 +81,6 @@ SIDE           : Imperial ◈
 ```
 ◈ Metodologías ágiles   ◈ Scrum   ◈ Gestión de proyectos
 ```
-
----
-
-## 🎬 Transmisiones de interés
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30%" title="Star Wars"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/3og0IO5z8Rd30ktV6g/giphy.gif" width="30%" title="Dune"/>
-  &nbsp;
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%" title="Coding"/>
-</div>
-
-<div align="center">
-  <sub>Star Wars &nbsp;·&nbsp; Dune &nbsp;·&nbsp; Coding</sub>
-</div>
 
 ---
 
